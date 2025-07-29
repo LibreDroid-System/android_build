@@ -31,6 +31,7 @@ PRODUCT_PACKAGES += \
     preinstalled-packages-platform-handheld-product.xml \
     QuickSearchBox \
     SettingsIntelligence \
+    LibreConnect \
     frameworks-base-overlays
 
 ifeq ($(LINEAGE_BUILD),)
