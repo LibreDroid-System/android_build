@@ -32,6 +32,7 @@ PRODUCT_PACKAGES += \
     QuickSearchBox \
     SettingsIntelligence \
     LibreConnect \
+    YuyanIME \
     frameworks-base-overlays
 
 ifeq ($(LINEAGE_BUILD),)
